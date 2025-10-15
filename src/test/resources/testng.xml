@@ -1,0 +1,10 @@
+<suite name="CucumberSuite">
+    <listeners>
+        <listener class-name="Utilities.RetryTransformer"/>
+    </listeners>
+    <test name="CucumberTests">
+        <classes>
+            <class name="Runner.TestRunner"/>
+        </classes>
+    </test>
+</suite>
