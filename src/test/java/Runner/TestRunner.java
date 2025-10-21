@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 
 @CucumberOptions(
-        plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:", "Utilities.CucumberLoggingListener"},
+        plugin = {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
         features = "src/test/resources/Features",
         glue = {"StepDefinitions","Hooks"},monochrome = true)
 

@@ -1052,3 +1052,41 @@
 2025-10-13 12:07:22 INFO  Utilities.CucumberLoggingListener -    Step Started: When User clicks on the "Continue" button
 2025-10-13 12:07:22 INFO  Utilities.CucumberLoggingListener -  Step Finished: When User clicks on the "Continue" button | Status: SKIPPED
 2025-10-13 12:07:22 ERROR Hooks.MyHooks - scenario Failed : Enter valid credentials into the Register Form
+2025-10-17 15:05:44 INFO  Utilities.CucumberLoggingListener - CucumberLoggingListener initialized...
+2025-10-17 15:29:54 INFO  Utilities.CucumberLoggingListener - CucumberLoggingListener initialized...
+2025-10-17 15:29:55 INFO  Hooks.MyHooks - Scenario started : Enter valid Credentials to the Login Form
+2025-10-17 15:30:02 INFO  Utilities.CucumberLoggingListener -    Step Started: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/"
+2025-10-17 15:30:08 INFO  Utilities.CucumberLoggingListener -  Step Finished: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/" | Status: PASSED
+2025-10-17 15:30:08 INFO  Utilities.CucumberLoggingListener -    Step Started: When User clicks on the "Log in" link
+2025-10-17 15:30:08 INFO  Utilities.CucumberLoggingListener -  Step Finished: When User clicks on the "Log in" link | Status: PASSED
+2025-10-17 15:30:08 INFO  Utilities.CucumberLoggingListener -    Step Started: And User enters the Email "nagasurendra123@gmail.com"
+2025-10-17 15:30:09 INFO  Utilities.CucumberLoggingListener -  Step Finished: And User enters the Email "nagasurendra123@gmail.com" | Status: PASSED
+2025-10-17 15:30:09 INFO  Utilities.CucumberLoggingListener -    Step Started: And User enters the Password "Surendra123@"
+2025-10-17 15:30:14 INFO  Utilities.CucumberLoggingListener -  Step Finished: And User enters the Password "Surendra123@" | Status: PASSED
+2025-10-17 15:30:14 INFO  Utilities.CucumberLoggingListener -    Step Started: When User clicks on the Checkbox "Remember me?"
+2025-10-17 15:30:14 INFO  Utilities.CucumberLoggingListener -  Step Finished: When User clicks on the Checkbox "Remember me?" | Status: PASSED
+2025-10-17 15:30:14 INFO  Utilities.CucumberLoggingListener -    Step Started: And User clicks on the "Log in" button
+2025-10-17 15:30:20 INFO  Utilities.CucumberLoggingListener -  Step Finished: And User clicks on the "Log in" button | Status: PASSED
+2025-10-17 15:30:20 INFO  Hooks.MyHooks - Scenario passed : Enter valid Credentials to the Login Form
+2025-10-17 15:30:20 INFO  Hooks.MyHooks - Scenario started : Search for a laptop
+2025-10-17 15:30:22 INFO  Utilities.CucumberLoggingListener -    Step Started: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/"
+2025-10-17 15:30:29 INFO  Utilities.CucumberLoggingListener -  Step Finished: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/" | Status: PASSED
+2025-10-17 15:30:29 INFO  Utilities.CucumberLoggingListener -    Step Started: When User searches for "14.1-inch Laptop"
+2025-10-17 15:30:34 INFO  Utilities.CucumberLoggingListener -  Step Finished: When User searches for "14.1-inch Laptop" | Status: PASSED
+2025-10-17 15:30:34 INFO  Utilities.CucumberLoggingListener -    Step Started: Then Search results should contain "14.1-inch Laptop"
+2025-10-17 15:30:34 INFO  Utilities.CucumberLoggingListener -  Step Finished: Then Search results should contain "14.1-inch Laptop" | Status: PASSED
+2025-10-17 15:30:34 INFO  Hooks.MyHooks - Scenario passed : Search for a laptop
+2025-10-17 15:30:34 INFO  Hooks.MyHooks - Scenario started : Validate Register form
+2025-10-17 15:30:40 INFO  Utilities.CucumberLoggingListener -    Step Started: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/"
+2025-10-17 15:30:43 INFO  Utilities.CucumberLoggingListener -  Step Finished: Given User is on the Demo Web Shop homepage "https://demowebshop.tricentis.com/" | Status: PASSED
+2025-10-17 15:30:43 INFO  Utilities.CucumberLoggingListener -    Step Started: When User clicks on the "Register" link
+2025-10-17 15:30:44 INFO  Utilities.CucumberLoggingListener -  Step Finished: When User clicks on the "Register" link | Status: PASSED
+2025-10-17 15:30:44 INFO  Utilities.CucumberLoggingListener -    Step Started: Then User should be navigated to the Register page
+2025-10-17 15:30:44 INFO  Utilities.CucumberLoggingListener -  Step Finished: Then User should be navigated to the Register page | Status: PASSED
+2025-10-17 15:30:44 INFO  Hooks.MyHooks - Scenario passed : Validate Register form
+2025-10-21 10:29:02 INFO  Hooks.MyHooks - Scenario started : Enter valid Credentials to the Login Form
+2025-10-21 10:29:33 INFO  Hooks.MyHooks - Scenario passed : Enter valid Credentials to the Login Form
+2025-10-21 10:29:34 INFO  Hooks.MyHooks - Scenario started : Search for a laptop
+2025-10-21 10:30:03 INFO  Hooks.MyHooks - Scenario passed : Search for a laptop
+2025-10-21 10:30:03 INFO  Hooks.MyHooks - Scenario started : Validate Register form
+2025-10-21 10:30:15 INFO  Hooks.MyHooks - Scenario passed : Validate Register form
