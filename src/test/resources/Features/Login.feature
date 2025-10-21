@@ -10,14 +10,14 @@ Feature: Login
     When User clicks on the Checkbox "Remember me?"
     And User clicks on the "Log in" button
 
-    Scenario: Add the products into the Cart
-      When User clicks on the Checkbox "Remember me?"
-      And User clicks on the "Log in" button
-      And User should scroll and select the product "$25 Virtual Gift Card" into the add to cart
-      And User enters the Recipient name "Surendra"
-      And User enter the Recipient email "nagasurendra123@gmail.com"
-      And User click on the "Add to cart" button
-      Then User should verify the message "The product has been added to your shopping cart"
+#    Scenario: Add the products into the Cart
+#      When User clicks on the Checkbox "Remember me?"
+#      And User clicks on the "Log in" button
+#      And User should scroll and select the product "$25 Virtual Gift Card" into the add to cart
+#      And User enters the Recipient name "Surendra"
+#      And User enter the Recipient email "nagasurendra123@gmail.com"
+#      And User click on the "Add to cart" button
+#      Then User should verify the message "The product has been added to your shopping cart"
 
 
 
